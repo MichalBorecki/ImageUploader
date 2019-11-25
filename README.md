@@ -2,7 +2,7 @@
 
 **ImageUploader** is a simple Java application for upload images into cloudinary.com and store their URL adresses in h2 database. Code based on a [webinar made by Przemysław Bykowski](https://www.youtube.com/watch?v=xH6T8VQdpRo). 
 
-Desription of app: [link](https://bykowski.pl/jakie-zadanie-rekrutacyjne-moze-cie-spotkac-na-rozmowie-rekrutacyjnej/)
+Description of app: [link](https://bykowski.pl/jakie-zadanie-rekrutacyjne-moze-cie-spotkac-na-rozmowie-rekrutacyjnej/)
 
 
 ## Tech/framework used 
